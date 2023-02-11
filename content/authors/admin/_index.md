@@ -65,6 +65,6 @@ highlight_name: false
 
 I am a PhD candidate at the University of Montreal (Canada) and Shanghai International Studies University (China). I am funded by the [Fond de recherche du Québec Société et Culture (FRQSC)](http://www.frqsc.gouv.qc.ca/en/). 
 
-I am currently a research fellow at the [Canada Research Chair in Electoral Democracy](https://www.chairedemocratie.com) led by Ruth Dassonneville and affiliated with the [Center for the Study of Democratic Citizenship](https://csdc-cecd.ca). I am also a catalyst of the [Berkeley Initiative for Transparency in the Social Sciences](https://www.bitss.org).
+I am currently a research fellow at the [Canada Research Chair in Electoral Democracy](https://www.chairedemocratie.com) led by Ruth Dassonneville and affiliated with the [Center for the Study of Democratic Citizenship](https://csdc-cecd.ca).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv20220919.pdf" "newtab" >}}CV{{< /staticref >}}.
