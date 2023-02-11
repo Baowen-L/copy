@@ -26,13 +26,19 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Political Science
-    institution: University of Montreal
+  - course: PhD, Political Science
+    institution: University of Montreal, Canada
     year: Sept 2019 - present
-  - course: PhD in Francophone Studies
-    institution: Shanghai International Studies University
+  - course: PhD, French Language and Literature
+    institution: Shanghai International Studies University, China
     year: Sept 2019 - present
-
+  - course: MA, Political and Social Sciences
+    institution: Université Paris II (Panthéon-Assas), France
+    year: 2019
+  - course: MA, French Language and Literature
+    institution: Shanghai International Studies University, China
+    year: 2019
+    
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
