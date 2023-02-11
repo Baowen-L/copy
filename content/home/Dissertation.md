@@ -35,7 +35,7 @@ design:
 ---
 
 
-**Committee:** Ruth Dassonneville (Chair), Vincent Arel-Bundock & Christopher Wlezien
+**Supervisors:** Ruth Dassonneville & Patrick Fournier
 
 In my dissertation I investigate how everyday life experiences of economic inequality influence citizens’ political attitudes. Specifically, I argue that individuals use their economic environment to compare themselves to their neighbours or peers and adjust their political views and behaviour accordingly. 
 
