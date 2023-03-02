@@ -76,7 +76,7 @@ highlight_name: false
 
 I am a PhD candidate at the University of Montreal (Canada) and Shanghai International Studies University (China). I am funded by the [Fond de recherche du Québec Société et Culture (FRQSC)](http://www.frqsc.gouv.qc.ca/en/). I will be a visiting fellow at Sciences Po Paris from May to July 2023.
 
-I do research at the intersection of political science and psychology. I am interested in understanding how culture can shape citizens' political attitudes and behavior. More precisely, my PhD thesis investigates the relationship between the individualism-collectivism cultural dimension and negativity biases in the realm of politics.
+I do research at the intersection of political science and psychology. I am interested in understanding how culture can shape citizens' political attitudes and behavior. More precisely, my PhD dissertation investigates the relationship between the individualism-collectivism cultural dimension and negativity biases in the realm of politics.
 
 I am currently a research fellow at the [Canada Research Chair in Electoral Democracy](https://www.chairedemocratie.com) led by Ruth Dassonneville and affiliated with the [Center for the Study of Democratic Citizenship](https://csdc-cecd.ca).
 
