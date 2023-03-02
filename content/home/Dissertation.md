@@ -37,6 +37,7 @@ design:
 <br/>
 
 **Supervisors:** Ruth Dassonneville & Patrick Fournier
+<br/>
 
 My PhD project investigates the cultural relevance for negativity biases in politics. My main argument is that collectivistic contexts should reduce negativity biases. I conceive three empirical chapters. Chapter 1 draws on the World Values Survey and the Asian Barometer Survey to study the cultural impact on negativity biases in authority evaluations. Chapter 2 uses an online experiment in China to investigate the cultural effect on negativity biases in generalized trust. Chapter 3 adopts physiological measures and explores the relationship between cultural values and psychophysiological reactions to positive and negative stimuli in a laboratory setting. <br/>
 <br/>
