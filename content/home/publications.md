@@ -61,8 +61,26 @@ Book: Comparative Public Opinion, 2022 <br/>
   <summary><strong>2017年法国总统大选及政治生态的思考</strong> 
 </summary>
 
-From 1970 to 2018, either the Québec Liberal Party or the Parti Québécois won the elections in Québec. The Coalition Avenir Québec ended this long period of bipartisan alternation by winning a majority of seats in the 2018 election. Using datasets that cover five elections (2007, 2008, 2012, 2014, and 2018) over a period of 11 years, we provide a unique longitudinal perspective of citizens’ vote choice calculus. More specifically, we analyse long-term factors that are known to be crucial to make sense of electoral outcomes. Do factors such as generations, sex, attitudes towards Québec sovereignty and party identification have the same weight in voters’ calculus over time? Our results show a relative stability, but also several interesting variations, especially regarding the effect of support for Québec independence. This perspective deepens our understanding of recent political developments in Québec politics.
+2017年法国大选在第五共和国的历史上必将是浓墨重彩的一笔，持续近六十年的政治生态正在经历前所未有的变动。本文首先以党内初选及其失败的结果作为观察视角，分析传统两大政党面临的严峻危机。随后，在经济全球化的背景下探讨反体制势力发展壮大的原因和表现，描绘目前法国政坛的新图景，并对政治格局的未来发展情况做出前瞻性预测——两极化格局解体，三种意识形态相互缠斗。在后大选时代，法国局势仍不会太平。极端势力和街头政治会给马克龙总统的执政带来不少麻烦，而最关键的是，法国社会的政治信任正在消退，这是一切社会稳定、进步的最大绊脚石。法国公民需要承担更多责任，发挥主人翁精神，这或许是解决法国社会问题的一条进路。
 </details>
-Authors: Jean-Francois Daoust, & Alexandra Jabbour <br/>
-Journal: French politics, 2020<br/>
-<a href="https://doi.org/10.1057/s41253-020-00120-y">[PDF]</a><br/>
+Authors: 肖云上 & 梁宝文 <br/>
+Journal: 法语与法国文化研究, 2019 <br/>
+# <a href="https://doi.org/10.1057/s41253-020-00120-y">[PDF]</a><br/>
+
+<details>
+  <summary><strong>法国总统马克龙的政治改革</strong> 
+</summary>
+
+在全球化的冲击和2008年金融危机所引发的各项社会 
+矛盾积累下，法国人民对传统政党政治失去信心，这正 
+是马克龙当选总统和推行政治改革的根源。马克龙总统 
+任内政治改革的核心思想是提高权力机关的工作效率、 
+代表性和责任意识，预计将在2019年通过3个法律文 
+件完成。其改革既是第五共和国政治逻辑的延续，又不 
+乏新的洞见和举措。改革势必加快旧政治秩序的瓦解， 
+推动法国政治生态加速演变，这符合法国人民的期望， 
+也符合马克龙总统多数派的政治利益。
+</details>
+Authors: 肖云上 & 梁宝文 <br/>
+Journal: 法语与法国文化研究, 2019 <br/>
+# <a href="https://doi.org/10.1057/s41253-020-00120-y">[PDF]</a><br/>
