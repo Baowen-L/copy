@@ -80,4 +80,4 @@ I do research at the intersection of political science and psychology. I am inte
 
 I am currently a research fellow at the [Canada Research Chair in Electoral Democracy](https://www.chairedemocratie.com) led by Ruth Dassonneville and affiliated with the [Center for the Study of Democratic Citizenship](https://csdc-cecd.ca).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv20220919.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Academic_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
