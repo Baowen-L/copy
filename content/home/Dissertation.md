@@ -34,6 +34,7 @@ design:
   flip_alt_rows: false
 ---
 
+<br/>
 
 **Supervisors:** Ruth Dassonneville & Patrick Fournier
 
@@ -46,12 +47,14 @@ My PhD project investigates the cultural relevance for negativity biases in poli
 In political science, there is a broad literature that investigates the negativity biases in citizens’ attitudes and behaviors. In particular, we know that citizens’ political evaluations tend to be more strongly influenced by negative than positive perceptions of traits, events and policy outcomes. In this paper, I argue that culture is a significant yet understudied correlate of negativity biases. Multilevel analysis using the World Values Survey (WVS) demonstrates that the negativity bias in national government satisfaction weakens as a society’s level of collectivism rises. Next, I explore the effect of cultural values at the individual level with data from the Asian Barometer Survey (ABS). In line with the results from the WVS, I find that collectivism reduces the negative-positive asymmetry when citizens evaluate the incumbent authority on the basis of government performance. These results invite more caution when taking negativity biases as a general pattern that describes citizens’ attitudes toward political authority everywhere.
 </details>  
 <br/>
+
 **Chapter 2**: Is Bad Always Stronger than Good? Culture and Negativity Biases in Generalized Trust  <br/>
 
 <details>
 Generalized trust, also known as social trust or interpersonal trust, designates the trust that people have in the fellow members of society in general. Social research identifies a few psychological barriers that impair the development of trust, among which the negativity biases. Previous work convincingly illustrates that trust is relatively easy to destroy and difficult to create. However, current research on negativity biases relies heavily on geographically-constrained samples from the Western hemisphere. In this paper, I argue that the negativity bias in forming generalized trust is based on contingent individualistic assumptions. There is a lack of attention for collectivistic contexts. Using an online experiment conducted with 2000 respondents from China, I find that, in line with the negativity bias account, receiving (negative) information about other social members’ untrustworthiness has a stronger impact on generalized trust than receiving comparable (positive) information about trustworthiness. However, information’s asymmetric effect on trust is conditional on participants’ self-rated cultural values. Individuals who have higher collectivistic values tend to exhibit less negativity bias in forming trust.
 </details>
 <br/>
+
  **Chapter 3**: Negativity Biases and Culture: Physiological Reactions of Bicultural Individuals (collaboration with Patrick Fournier and Stuart Soroka) <br/>
 
 <details>
