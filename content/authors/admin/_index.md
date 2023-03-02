@@ -28,10 +28,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD, Political Science
+  - course: PhD Candidate, Political Science
     institution: University of Montreal, Canada
     year: Sept 2019 - present
-  - course: PhD, French Language and Literature
+  - course: PhD Candidate, French Language and Literature
     institution: Shanghai International Studies University, China
     year: Sept 2019 - present
   - course: MA, Political and Social Sciences
