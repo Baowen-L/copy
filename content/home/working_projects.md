@@ -33,14 +33,14 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
-
-1. The Implications of Cohabitation Between Working Age Children and Parents on Political
-Opinions, CSDC Best Student Paper Award 2021 - (R&R at the European Journal of Political Research)
-2. Responsiveness and Public Opinion, with R.Dassonneville, N.Frechet, B.Ferland, & J.Homola. (Under review)
-3. Housing Prices as a Reminder of Inequality: Evidence from Survey Experiments
-4. Compositional Stability and Electoral Continuity
-5. The Effect of Increased Visibility on Radical Right Parties Electoral Success (with Ruth Dassonneville and Caroline Le Pennec)
-6. Beyond the neighborhood, but not too far: reconsidering the effect of the immediate environment on citizens’ perceptions of the economy
-7. Does Social Spending Moderate Economic Voting? (with Ruth Dassonneville) (full draft)
-8. Does Multiple Change in Policy Preferences Lead to Change in Partisanship? (full draft)
-
+1. La socialisation des citoyens aux organisations internationales dans leur ville (Bruxelles-Genève-Montréal) : 
+le ‘glocal’ comme accoutumance et limite à la mondialisation", with Davidshofer, S., Foret, F., & Mérand, F., 
+under review at Études internationales.
+2. The relevance of culture: collectivism reduces negativity biases in government evaluation, under 
+review at Political Psychology.
+3. Confucian meritocracy reduces gender inequality in political participation, under review at 
+Comparative Political Studies. 
+4. Is bad always stronger than good? Culture and negativity biases in generalized trust, work in progress.
+5. Negativity biases and culture: Physiological reactions of bicultural indiviudals, with Fournier, P., & Soroka, S., work in progress.
+6. Confucianism and generalized trust: Empirical evidence from seven East Asian societies, work in progress.
+7. Cultural origins of gender gaps in political participation, with Dassonneville, R., work in progress.
