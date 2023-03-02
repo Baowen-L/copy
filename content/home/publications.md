@@ -66,6 +66,7 @@ Book: Comparative Public Opinion, 2022 <br/>
 Authors: 肖云上 & 梁宝文 <br/>
 Journal: 法语与法国文化研究, 2019 <br/>
 # <a href="https://doi.org/10.1057/s41253-020-00120-y">[PDF]</a><br/>
+<br/>
 
 <details>
   <summary><strong>法国总统马克龙的政治改革</strong> 
