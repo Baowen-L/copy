@@ -54,7 +54,6 @@ dividing role of language in public opinion in Belgium and Canada.
 </details>
 Authors: Ruth Dassonneville, Nadjim Fréchet & Baowen Liang <br/>
 Book: Comparative Public Opinion, 2022 <br/>
-# <a href="https://doi.org/10.1016/j.electstud.2021.102291">[Publ]</a><br/>  
 <br/>
 
 <details>
@@ -65,7 +64,6 @@ Book: Comparative Public Opinion, 2022 <br/>
 </details>
 Authors: 肖云上 & 梁宝文 <br/>
 Journal: 法语与法国文化研究, 2019 <br/>
-# <a href="https://doi.org/10.1057/s41253-020-00120-y">[PDF]</a><br/>
 <br/>
 
 <details>
@@ -84,4 +82,4 @@ Journal: 法语与法国文化研究, 2019 <br/>
 </details>
 Authors: 肖云上 & 梁宝文 <br/>
 Journal: 法语与法国文化研究, 2019 <br/>
-# <a href="https://doi.org/10.1057/s41253-020-00120-y">[PDF]</a><br/>
+<br/>
