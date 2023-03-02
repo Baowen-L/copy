@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Baowen Liang
+title: Baowen Liang (梁宝文)
 
 # Is this the primary user of the site?
 superuser: true
