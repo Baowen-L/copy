@@ -35,11 +35,11 @@ design:
 ---
 1. La socialisation des citoyens aux organisations internationales dans leur ville (Bruxelles-Genève-Montréal) : 
 le ‘glocal’ comme accoutumance et limite à la mondialisation", with Davidshofer, S., Foret, F., & Mérand, F., 
-under review at Études internationales.
+R & R at Études internationales.
 2. The relevance of culture: collectivism reduces negativity biases in government evaluation, under 
 review at Political Psychology.
 3. Confucian meritocracy reduces gender inequality in political participation, under review at 
-Comparative Political Studies. 
+Political Behavior. 
 4. Is bad always stronger than good? Culture and negativity biases in generalized trust, work in progress.
 5. Negativity biases and culture: Physiological reactions of bicultural indiviudals, with Fournier, P., & Soroka, S., work in progress.
 6. Confucianism and generalized trust: Empirical evidence from seven East Asian societies, work in progress.
