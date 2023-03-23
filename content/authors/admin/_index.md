@@ -31,9 +31,6 @@ education:
   - course: PhD Candidate, Political Science
     institution: University of Montreal, Canada
     year: Sept 2019 - present
-  - course: PhD Candidate, French Language and Literature
-    institution: Shanghai International Studies University, China
-    year: Sept 2019 - present
   - course: MA, Political and Social Sciences
     institution: Université Paris II (Panthéon-Assas), France
     year: 2019
