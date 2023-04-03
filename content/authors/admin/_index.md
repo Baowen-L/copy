@@ -11,7 +11,9 @@ role: PhD Candidate
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Montreal
-  url: https://www.umontreal.ca
+  url: https://www.umontreal.ca 
+- name: Shanghai International Studies University
+  url: https://www.shisu.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Political Behavior, Political Psycholgy, Public Opinion, East Asian Politics, and French Politics.
@@ -30,6 +32,9 @@ education:
   courses:
   - course: PhD Candidate, Political Science
     institution: University of Montreal, Canada
+    year: Sept 2019 - present
+  - course: PhD Candidate, Francophone Studies
+    institution: University of Montreal, Canada    
     year: Sept 2019 - present
   - course: MA, Political and Social Sciences
     institution: Université Paris II (Panthéon-Assas), France
