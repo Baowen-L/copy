@@ -16,7 +16,7 @@ organizations:
   url: https://www.shisu.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Political Behavior, Political Psycholgy, Public Opinion, East Asian Politics, and French Politics.
+bio: My research interests include Political Behavior, Political Psycholgy, Public Opinion, Chinese Politics, and French Politics.
 
 # Interests to show in About widget
 interests:
@@ -24,7 +24,7 @@ interests:
 - Political Psychology
 - Political Behavior
 - Public Opinion
-- East Asian Politics
+- Chinese Politics
 - French Politics
 
 # Education to show in About widget
@@ -76,7 +76,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a PhD candidate at the University of Montreal (Canada) and Shanghai International Studies University (China). I am funded by the [Fond de recherche du Québec Société et Culture (FRQSC)](http://www.frqsc.gouv.qc.ca/en/). I will be a visiting fellow at Sciences Po Paris from May to July 2023.
+I am a PhD candidate at the University of Montreal (Canada) and Shanghai International Studies University (China). I am funded by the [Fonds de recherche du Québec Société et Culture (FRQSC)](http://www.frqsc.gouv.qc.ca/en/). I will be a visiting fellow at Sciences Po Paris from May to July 2023.
 
 I do research at the intersection of political science and psychology. I am interested in understanding how culture can shape citizens' political attitudes and behavior. More precisely, my PhD dissertation investigates the relationship between the individualism-collectivism cultural dimension and negativity biases in the realm of politics.
 
