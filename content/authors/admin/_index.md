@@ -20,7 +20,7 @@ bio: My research interests include Political Behavior, Political Psycholgy, Publ
 
 # Interests to show in About widget
 interests:
-- Culture in Politics
+- Comparative Politics
 - Political Psychology
 - Political Behavior
 - Public Opinion
