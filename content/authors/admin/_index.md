@@ -6,7 +6,7 @@ title: Baowen Liang 梁宝文
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: PhD
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,7 +22,6 @@ bio: My research interests include Political Behavior, Political Psycholgy, Publ
 interests:
 - Comparative Politics
 - Political Psychology
-- Political Behavior
 - Public Opinion
 - Chinese Politics
 - French Politics
@@ -30,12 +29,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD Candidate, Political Science
-    institution: University of Montreal, Canada
-    year: Sept 2019 - present
   - course: PhD Candidate, Francophone Studies
-    institution: University of Montreal, Canada    
+    institution: Shanghai International Studies University, Shanghai    
     year: Sept 2019 - present
+  - course: PhD, Political Science
+    institution: University of Montreal, Canada
+    year: 2024
   - course: MA, Political and Social Sciences
     institution: Université Paris II (Panthéon-Assas), France
     year: 2019
@@ -76,9 +75,9 @@ email: ""
 highlight_name: false
 ---
 
-I am a PhD candidate at the University of Montreal (Canada) and Shanghai International Studies University (China). I am funded by the [Fonds de recherche du Québec Société et Culture (FRQSC)](http://www.frqsc.gouv.qc.ca/en/). I will be a visiting fellow at Sciences Po Paris from May to July 2023.
+In April 2024, I successfully defended my doctoral dissertation at the Université de Montréal and earned the highest distinction of “Exceptional”, the top honor for a PhD dissertation at the university. I will soon begin my postdoctoral fellowship at the Université du Québec à Montréal, working with Professor Allison Harell.
 
-I do research at the intersection of political science and psychology. I am interested in understanding how culture can shape citizens' political attitudes and behavior. More precisely, my PhD dissertation investigates the relationship between the individualism-collectivism cultural dimension and negativity biases in the realm of politics.
+I do research at the intersection of political science and psychology. I am interested in understanding how culture can shape citizens' political attitudes and behavior, with a regional focus on Greater China. My PhD dissertation investigates the influence of Confucianism on negativity biases and gender gaps in political participation.
 
 I am currently a research fellow at the [Canada Research Chair in Electoral Democracy](https://www.chairedemocratie.com) led by Ruth Dassonneville and affiliated with the [Center for the Study of Democratic Citizenship](https://csdc-cecd.ca).
 
