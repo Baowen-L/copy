@@ -75,7 +75,7 @@ email: ""
 highlight_name: false
 ---
 
-In April 2024, I successfully defended my doctoral dissertation at the Université de Montréal and earned the highest distinction of “Exceptional”, the top honor for a PhD dissertation at the university. I will soon begin my postdoctoral fellowship at the Université du Québec à Montréal, working with Professor Allison Harell.
+In April 2024, I successfully defended my doctoral dissertation at the Université de Montréal and earned the highest distinction of “Exceptional”. I will soon begin my postdoctoral fellowship at the Université du Québec à Montréal, working with Professor Allison Harell.
 
 I do research at the intersection of political science and psychology. I am interested in understanding how culture can shape citizens' political attitudes and behavior, with a regional focus on Greater China. My PhD dissertation investigates the influence of Confucianism on negativity biases and gender gaps in political participation.
 
