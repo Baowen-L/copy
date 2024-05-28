@@ -37,7 +37,7 @@ design:
 
 2. La socialisation des citoyens aux organisations internationales dans leur ville (Bruxelles-Genève-Montréal) : le ‘glocal’ comme accoutumance et limite à la mondialisation", with Davidshofer, S., Foret, F., & Mérand, F., R & R at _Études internationales_.
 
-3. Do Political Surveys Overestimate Affective Polarization?, Jabbour, A., Çak{\i}r, S., Coulombe, M., Fréchet, N., Paquette, T., Leblanc, J., Pautonnier, V., Rafie, T., Taylor, M., Vandewalle, V., Bergeron, M., Kostelka, F., & Dassonneville, R., R \& R at _Journal of Politics_.
+3. Do Political Surveys Overestimate Affective Polarization?, with Jabbour, A., Çakir, S., Coulombe, M., Fréchet, N., Paquette, T., Leblanc, J., Pautonnier, V., Rafie, T., Taylor, M., Vandewalle, V., Bergeron, M., Kostelka, F., & Dassonneville, R., R \& R at _Journal of Politics_.
 
 4. The relevance of culture: Collectivism reduces negativity biases in government evaluation, under review at _Public Opinion Quarterly_.
 
