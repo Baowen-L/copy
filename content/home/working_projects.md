@@ -47,7 +47,7 @@ design:
 
 7. Understanding the Electoral Participation Gap: A Study of Racialized Minorities in Canada, with Harell, A., work in progress.
 
-8. Immigrant Inclusion in the National "We": A Seven Country Study of the Microfoundations of Membership Perceptions, with Harell, A., Banting, K., & Kymlicka, W., work in progress. \\ 
+8. Immigrant Inclusion in the National "We": A Seven Country Study of the Microfoundations of Membership Perceptions, with Harell, A., Banting, K., & Kymlicka, W., work in progress.
 
 9. Negativity biases and culture: Physiological reactions of bicultural Chinese, with Fournier, P., & Soroka, S., work in progress.
 
