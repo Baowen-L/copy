@@ -43,11 +43,12 @@ design:
 # Lecturer
 - French as a second foreign language, Fall 2016, Winter 2017 (Shanghai International Studies University) <br/>
 Undergraduate course, approximately 40 students
+- Quantitative Analysis Methods, Fall 2023 (Université de Montréal) <br/>
+Undergraduate course, approximately 95 students
 <br/>
 <br/>
 
-# Teaching Assistant (University of Montreal)
+# Teaching Assistant
 - POL 1803 Introduction to Quantitative Analyses, Fall 2020, Fall 2021, Fall 2022 (University of Montreal)
-
 - POL 3140 Political Psychology, Winter 2021 (University of Montreal)
 
