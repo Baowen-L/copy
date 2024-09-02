@@ -80,6 +80,6 @@ In April 2024, I successfully defended my doctoral dissertation at the Universit
 
 My research lies at the intersection of political science and psychology, with a particular focus on the role of culture in shaping political attitudes and behaviors. My PhD dissertation explored the impact of Confucianism on negativity biases and gender gaps in political participation.
 
-I am currently a research fellow at the [Consortium on Electoral Democracy](https://c-dem.ca/) and hold affiliations with the [Center for the Study of Democratic Citizenship](https://csdc-cecd.ca) and the [Laboratoire d’analyse en communication politique et opinion publique (LACPOP)](https://lacpop.uqam.ca/).
+I am currently a research fellow at the [Consortium on Electoral Democracy](https://c-dem.ca/) and hold affiliations with the [Center for the Study of Democratic Citizenship](https://csdc-cecd.ca) and the [Political Communication and Public Opinion Laboratory](https://lacpop.uqam.ca/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Academic_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
