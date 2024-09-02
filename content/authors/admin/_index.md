@@ -10,13 +10,13 @@ role: PhD
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Montreal
-  url: https://www.umontreal.ca 
+- name: Université du Québec à Montréal
+  url: https://uqam.ca 
 - name: Shanghai International Studies University
   url: https://www.shisu.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Political Behavior, Political Psycholgy, Public Opinion, Chinese Politics, and French Politics.
+bio: My research field includes Political Behavior, Political Psycholgy and Public Opinion.
 
 # Interests to show in About widget
 interests:
@@ -25,6 +25,7 @@ interests:
 - Public Opinion
 - Chinese Politics
 - French Politics
+- Canadian Politics
 
 # Education to show in About widget
 education:
@@ -75,10 +76,10 @@ email: ""
 highlight_name: false
 ---
 
-In April 2024, I successfully defended my doctoral dissertation at the Université de Montréal and earned the highest distinction of “Exceptional”. I will soon begin my postdoctoral fellowship at the Université du Québec à Montréal, working with Professor Allison Harell.
+In April 2024, I successfully defended my doctoral dissertation at the Université de Montréal and earned the highest distinction of “Exceptional”. I am currently a postdoctoral fellow at the Université du Québec à Montréal, working under the supervision of Professor Allison Harell. I have also been a visiting research fellow at Sciences Po and Waseda University.
 
-I do research at the intersection of political science and psychology. I am interested in understanding how culture can shape citizens' political attitudes and behavior, with a regional focus on Greater China. My PhD dissertation investigates the influence of Confucianism on negativity biases and gender gaps in political participation.
+My research lies at the intersection of political science and psychology, with a particular focus on the role of culture in shaping political attitudes and behaviors. My PhD dissertation explored the impact of Confucianism on negativity biases and gender gaps in political participation.
 
-I am currently a research fellow at the [Canada Research Chair in Electoral Democracy](https://www.chairedemocratie.com) led by Ruth Dassonneville and affiliated with the [Center for the Study of Democratic Citizenship](https://csdc-cecd.ca).
+I am currently a research fellow at the [Consortium on Electoral Democracy](https://c-dem.ca/) and hold affiliations with the [Center for the Study of Democratic Citizenship](https://csdc-cecd.ca) and the [Laboratoire d’analyse en communication politique et opinion publique (LACPOP)](https://lacpop.uqam.ca/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Academic_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
