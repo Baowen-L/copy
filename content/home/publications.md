@@ -47,7 +47,7 @@ The historical oppression of women in China mirrors the experiences of women in 
 Author: Baowen Liang <br/>
 Journal: Electoral Studies, 2024 <br/>
 
-[Access the paper here](https://doi.org/10.1016/j.electstud.2024.102848)  
+[Access the full paper here](https://doi.org/10.1016/j.electstud.2024.102848)  
 
 <br/>
 
@@ -68,7 +68,9 @@ dividing role of language in public opinion in Belgium and Canada.
 </details>
 Authors: Ruth Dassonneville, Nadjim Fréchet & Baowen Liang <br/>
 Book: Comparative Public Opinion, 2022 <br/>
-Access: https://doi.org/10.4324/9781003121992 <br/>
+
+[Access the book chapter here](https://doi.org/10.4324/9781003121992)  
+
 <br/>
 
 <details>
