@@ -31,7 +31,7 @@ interests:
 education:
   courses:
   - course: PhD Candidate, French Language and Literature
-    institution: Shanghai International Studies University, Shanghai    
+    institution: Shanghai International Studies University, China   
     year: 2019 - present
   - course: PhD, Political Science
     institution: University of Montreal, Canada
