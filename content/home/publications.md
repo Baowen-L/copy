@@ -38,6 +38,18 @@ design:
 ---
 
 <details>
+  <summary><strong>Cultural sources of gender gaps: Confucian meritocracy reduces gender inequalities in political participation</strong>  
+</summary>
+
+The historical oppression of women in China mirrors the experiences of women in many other cultures. During the imperial era, Confucian ideologies and institutions played a significant role in perpetuating women's disenfranchisement. This perception has become deeply entrenched, to the extent that contemporary discussions on women's status often automatically refer to lingering Confucian legacies as one of the obstacles to achieving gender equality. However, this study offers a nuanced perspective by shedding light on how certain aspects of Confucianism, notably meritocracy, may serve to empower modern-day women. The research focuses on the Chinese context, particularly the historically significant Confucian-based meritocratic institution known as the civil examination system (keju). I argue that historical meritocratic legacies can have a lasting impact on contemporary behavior, specifically by reducing the gender gap in political participation in local village elections. Using data from historical archives and the China General Social Survey, I find a negative correlation between a prefecture's historical success in the keju exams and the gender gap in village election turnout among present-day respondents. Further exploratory analyses reveal that the enduring Confucian tradition of meritocracy also empowers other low-status social groups, including the economically disadvantaged and the less educated.
+  
+</details>
+Author: Baowen Liang <br/>
+Journal: Electoral Studies, 2024 <br/>
+Access: [click here](https://doi.org/10.1016/j.electstud.2024.102848) <br/>
+<br/>
+
+<details>
   <summary><strong>Linguistic cleavages in public opinion</strong>  
 </summary>
 
@@ -54,6 +66,7 @@ dividing role of language in public opinion in Belgium and Canada.
 </details>
 Authors: Ruth Dassonneville, Nadjim Fréchet & Baowen Liang <br/>
 Book: Comparative Public Opinion, 2022 <br/>
+Access: [click here](https://doi.org/10.4324/9781003121992) <br/>
 <br/>
 
 <details>
