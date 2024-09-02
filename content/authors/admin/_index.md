@@ -30,7 +30,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD Candidate, Francophone Studies
+  - course: PhD Candidate, French Language and Literature
     institution: Shanghai International Studies University, Shanghai    
     year: Sept 2019 - present
   - course: PhD, Political Science
