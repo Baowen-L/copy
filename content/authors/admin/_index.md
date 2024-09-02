@@ -10,8 +10,8 @@ role: PhD
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Université du Québec à Montréal
-  url: https://uqam.ca 
+- name: Université de Montréal
+  url: https://www.umontreal.ca 
 - name: Shanghai International Studies University
   url: https://www.shisu.edu.cn
 
