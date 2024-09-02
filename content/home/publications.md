@@ -42,7 +42,7 @@ design:
 </summary>
 
 The historical oppression of women in China mirrors the experiences of women in many other cultures. During the imperial era, Confucian ideologies and institutions played a significant role in perpetuating women's disenfranchisement. This perception has become deeply entrenched, to the extent that contemporary discussions on women's status often automatically refer to lingering Confucian legacies as one of the obstacles to achieving gender equality. However, this study offers a nuanced perspective by shedding light on how certain aspects of Confucianism, notably meritocracy, may serve to empower modern-day women. The research focuses on the Chinese context, particularly the historically significant Confucian-based meritocratic institution known as the civil examination system (keju). I argue that historical meritocratic legacies can have a lasting impact on contemporary behavior, specifically by reducing the gender gap in political participation in local village elections. Using data from historical archives and the China General Social Survey, I find a negative correlation between a prefecture's historical success in the keju exams and the gender gap in village election turnout among present-day respondents. Further exploratory analyses reveal that the enduring Confucian tradition of meritocracy also empowers other low-status social groups, including the economically disadvantaged and the less educated.
-  
+[GitHub Pages](https://pages.github.com/)  
 </details>
 Author: Baowen Liang <br/>
 Journal: Electoral Studies, 2024 <br/>
